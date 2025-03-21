@@ -20,10 +20,10 @@
     ```
     pip install -r requirements.txt
     ```
-Чтобы записать все установленные библиотеки в файл requirements.txt, можно использовать команду:
+   Чтобы записать все установленные библиотеки в файл requirements.txt, можно использовать команду:
 
     ```
-pip freeze > requirements.txt
+    pip freeze > requirements.txt
     ```
 2.  Настройте переменные окружения:
 
